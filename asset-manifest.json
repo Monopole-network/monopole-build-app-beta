@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.181ed4c1.css",
-    "main.js": "/static/js/main.bb3a49b9.js",
+    "main.js": "/static/js/main.16e1b2d0.js",
     "static/media/earth.jpg": "/static/media/earth.54672c1f3ba121d80470.jpg",
     "static/media/earth_night.jpg": "/static/media/earth_night.c0e138e9bf380cafd2c2.jpg",
     "static/media/centralDot.png": "/static/media/centralDot.1c0aa3edd22f5abaf66a.png",
@@ -15,13 +15,17 @@
     "static/media/Label.png": "/static/media/Label.a86ae4cd0127fc1e332b.png",
     "static/media/defaultWalletPicture.png": "/static/media/defaultWalletPicture.68f4bbb6479a8836a719.png",
     "static/media/travel.png": "/static/media/travel.198e4e9cf4f0c65135ac.png",
+    "static/media/snow.png": "/static/media/snow.9e4a7c794a460fd51667.png",
     "static/media/entertainment.png": "/static/media/entertainment.94879627d97b49b2ca1b.png",
     "static/media/health.png": "/static/media/health.747ec2bd9c940bbbeb3c.png",
     "static/media/food.png": "/static/media/food.d160c6ecfef3c087450f.png",
     "static/media/faqD.png": "/static/media/faqD.c66717ce6884be335337.png",
     "static/media/CryptoPartner.png": "/static/media/CryptoPartner.924c9f136ee37119da7e.png",
+    "static/media/sea.png": "/static/media/sea.3353402d85d57b0ab640.png",
     "static/media/creditCard.png": "/static/media/creditCard.bdea89c6df4099a4ad49.png",
     "static/media/activities.png": "/static/media/activities.0e068f7756acfe9268bb.png",
+    "static/media/lake.png": "/static/media/lake.1973b55e619b95d1a8cc.png",
+    "static/media/modalHeader.png": "/static/media/modalHeader.458e320fe2cb614dbb05.png",
     "static/media/bgCircle.png": "/static/media/bgCircle.2c28567f1aa3fb2f313c.png",
     "static/media/cars.png": "/static/media/cars.06f25d33e6380783d508.png",
     "static/media/sepa.png": "/static/media/sepa.840911fc390f17df6c9e.png",
@@ -117,10 +121,10 @@
     "static/media/montserrat-vietnamese-100-normal.woff2": "/static/media/montserrat-vietnamese-100-normal.57cdbe3c9105b59d57ae.woff2",
     "index.html": "/index.html",
     "main.181ed4c1.css.map": "/static/css/main.181ed4c1.css.map",
-    "main.bb3a49b9.js.map": "/static/js/main.bb3a49b9.js.map"
+    "main.16e1b2d0.js.map": "/static/js/main.16e1b2d0.js.map"
   },
   "entrypoints": [
     "static/css/main.181ed4c1.css",
-    "static/js/main.bb3a49b9.js"
+    "static/js/main.16e1b2d0.js"
   ]
 }
