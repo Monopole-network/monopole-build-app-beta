@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.181ed4c1.css",
-    "main.js": "/static/js/main.16e1b2d0.js",
+    "main.css": "/static/css/main.47fdc53a.css",
+    "main.js": "/static/js/main.f8984a42.js",
     "static/media/earth.jpg": "/static/media/earth.54672c1f3ba121d80470.jpg",
     "static/media/earth_night.jpg": "/static/media/earth_night.c0e138e9bf380cafd2c2.jpg",
     "static/media/centralDot.png": "/static/media/centralDot.1c0aa3edd22f5abaf66a.png",
@@ -28,6 +28,7 @@
     "static/media/modalHeader.png": "/static/media/modalHeader.458e320fe2cb614dbb05.png",
     "static/media/bgCircle.png": "/static/media/bgCircle.2c28567f1aa3fb2f313c.png",
     "static/media/cars.png": "/static/media/cars.06f25d33e6380783d508.png",
+    "static/media/mvx.png": "/static/media/mvx.ad284c151a2882083c20.png",
     "static/media/sepa.png": "/static/media/sepa.840911fc390f17df6c9e.png",
     "static/media/metamask.png": "/static/media/metamask.30289624c0c1d284fbff.png",
     "static/media/17.png": "/static/media/17.f970e7c36c351b30a49c.png",
@@ -68,6 +69,7 @@
     "static/media/dm-sans-latin-500-normal.woff2": "/static/media/dm-sans-latin-500-normal.82c42c7339eddd68c79d.woff2",
     "static/media/dm-sans-latin-700-normal.woff2": "/static/media/dm-sans-latin-700-normal.6261bc7f59cc2e5f8f29.woff2",
     "static/media/dm-sans-latin-400-normal.woff2": "/static/media/dm-sans-latin-400-normal.71edbde4a8ed19eeef94.woff2",
+    "static/media/xportal.png": "/static/media/xportal.4dc9cdb4cb831b61af1b.png",
     "static/media/walletconnect.png": "/static/media/walletconnect.80a855f2ddade21d0436.png",
     "static/media/euro.png": "/static/media/euro.b4aa70b3d4c53d491a47.png",
     "static/media/montserrat-latin-800-normal.woff2": "/static/media/montserrat-latin-800-normal.0c6b83a55aff690fcfc8.woff2",
@@ -105,6 +107,7 @@
     "static/media/montserrat-cyrillic-600-normal.woff2": "/static/media/montserrat-cyrillic-600-normal.14d88d8c9d6e4d88d07f.woff2",
     "static/media/montserrat-cyrillic-700-normal.woff2": "/static/media/montserrat-cyrillic-700-normal.56a74dfbd69c9a2c5687.woff2",
     "static/media/montserrat-cyrillic-800-normal.woff2": "/static/media/montserrat-cyrillic-800-normal.ed11a2479c483954eb3e.woff2",
+    "static/media/elrond-web-wallet.svg": "/static/media/elrond-web-wallet.6a6a74e0c4d9ddc0ed09934bd0315818.svg",
     "static/media/montserrat-cyrillic-400-normal.woff2": "/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
     "static/media/montserrat-cyrillic-200-normal.woff2": "/static/media/montserrat-cyrillic-200-normal.84982ecbe9a064188d51.woff2",
     "static/media/montserrat-cyrillic-300-normal.woff2": "/static/media/montserrat-cyrillic-300-normal.3d059d3f767be22de6a9.woff2",
@@ -120,11 +123,14 @@
     "static/media/montserrat-vietnamese-200-normal.woff2": "/static/media/montserrat-vietnamese-200-normal.65cfd5c1ae2f84db4a85.woff2",
     "static/media/montserrat-vietnamese-100-normal.woff2": "/static/media/montserrat-vietnamese-100-normal.57cdbe3c9105b59d57ae.woff2",
     "index.html": "/index.html",
-    "main.181ed4c1.css.map": "/static/css/main.181ed4c1.css.map",
-    "main.16e1b2d0.js.map": "/static/js/main.16e1b2d0.js.map"
+    "static/media/ledger.svg": "/static/media/ledger.636fbee09b293994a1ce8e090b38ebbd.svg",
+    "static/media/maiar-defi-wallet.svg": "/static/media/maiar-defi-wallet.2782e18b15bc50c6cf85addffe821d43.svg",
+    "static/media/maiar-app.svg": "/static/media/maiar-app.c49464d53f8ab7e34f77f47ccd09e41e.svg",
+    "main.47fdc53a.css.map": "/static/css/main.47fdc53a.css.map",
+    "main.f8984a42.js.map": "/static/js/main.f8984a42.js.map"
   },
   "entrypoints": [
-    "static/css/main.181ed4c1.css",
-    "static/js/main.16e1b2d0.js"
+    "static/css/main.47fdc53a.css",
+    "static/js/main.f8984a42.js"
   ]
 }
